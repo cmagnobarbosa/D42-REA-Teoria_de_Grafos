@@ -14,3 +14,6 @@ Important Source Files
 * ColoringProblem_debug.js - Concatenation of script/*.js
 * ColoringProblem_release.js - Compressed source code by UglyfyJS
 
+Desenvolvido por:
+
+https://github.com/Alimen/ColoringProblem
