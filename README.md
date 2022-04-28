@@ -10,8 +10,11 @@ O seu conteúdo foi traduzido para português (PT-BR), com o intuito de ser util
 como recurso educacional para introdução a teoria de grafos em estágio em docência na disciplina de
 Matemática Discreta na UFSJ.
 
+## Acesse no Heroku
+ - https://d42ufsj.herokuapp.com/
 ## Licença
 
+- MIT
 
 ## Licença Original
 
